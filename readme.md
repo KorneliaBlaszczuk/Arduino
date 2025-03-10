@@ -26,7 +26,7 @@ The program extends the first version with a potentiometer. thanks to it you can
 
 Counter.
 
-## okreslanie_roznicy_natezenia_swiatla
+### okreslanie_roznicy_natezenia_swiatla
 
 The design uses two photoresistors as separate voltage dividers, placed on the far sides of the contact plate. To increase the precision of the measurement, the sensors are tilted slightly outward.
 
